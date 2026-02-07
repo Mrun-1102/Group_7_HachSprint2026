@@ -1,0 +1,16 @@
+feedparser
+newspaper3k
+requests
+pymongo
+redis
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+streamlit
+pandas
+plotly
+python-dotenv
+beautifulsoup4
+fastapi
+uvicorn
